@@ -50,7 +50,7 @@
         <h4 class="t-color mt-3 ml-2">Promo Lainya</h4>
         </div>
 
-        <div class="row  p-2 ">
+        <div class="row  p-2 justify-content-center ">
     <b-nav pills class="floating justify-content-center ">
    <b-nav-item  active to="/home"><img src="../assets/img/vhome.svg" alt="">Home</b-nav-item>
     <b-nav-item to="/history"><img src="../assets/img/vhistory.svg" alt="">History</b-nav-item>
